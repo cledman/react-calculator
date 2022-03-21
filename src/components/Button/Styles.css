@@ -1,0 +1,31 @@
+button {
+    border:none;
+    border-radius:2em;
+    font-size: 1.5em;
+    height: 3em;
+    margin: 0.3em;
+    width: 3em;
+}
+
+button:hover {
+    cursor:pointer;
+}
+
+.default {
+    background-color: #fcfbf9; 
+    color:#030303;
+}
+
+.orange {
+    background-color: #FF9500;
+    color:#FFf;
+}
+
+.gray {
+    background-color: #505050;
+    color:#FFf;
+}
+
+.double {
+    width:43%;
+}
